@@ -15,3 +15,7 @@
 .site-info {
   display: none;
 }
+
+.main-navigation {
+  max-width: 1360px !important;
+}
