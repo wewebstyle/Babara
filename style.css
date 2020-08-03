@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Théme Enfant 
+ Theme URI:    https://github.com/wewebstyle/Babara
+ Description:  Description de mon thème enfant
+ Author:       WeWebStyle
+ Author URI:   https://wewebstyle.com/
+ Template:     suits
+ Version:      1.0.0
+*/
+
+.entry-header {
+  display: none;
+}
+
+.site-info {
+  display: none;
+}
